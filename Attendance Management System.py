@@ -1,7 +1,5 @@
 users = {
     "Sanju":"1234",
-    "Yash":"5678",
-    "Vikram":"0001",
 }
 
 def login():
